@@ -38,7 +38,7 @@ p{
     color: rgb(105, 103, 103);
 }
 .lowerpart{
-    background-image: url(dream-bg.png);
+    background-image: url("dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
